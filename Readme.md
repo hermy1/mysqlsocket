@@ -1,2 +1,2 @@
-## Socket.io with mysql
-# node, express, mysql, ejs
+# Socket.io with mysql
+-- using node, express, mysql, ejs
